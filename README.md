@@ -4,8 +4,7 @@
 </p>  
 -  I’m interested in books, music, coffee and code.
 -  I’m currently learning Python and Java
-  
-  
+
 ### Habilidades
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C&animation=spin&svgfill=15d8fe"> 
