@@ -2,8 +2,8 @@
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20ALICIA&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 </p>  
--  I’m interested in books, music, coffee and code.
--  I’m currently learning Python and Java
+-  I’m interested in books, music, coffee and code.<br>
+-  I’m currently learning Python, Java and other.
 
 ### Habilidades
 <a href="https://github.com/harish-sethuraman/readme-components">
